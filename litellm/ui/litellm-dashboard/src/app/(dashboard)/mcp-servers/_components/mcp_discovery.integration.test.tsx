@@ -132,6 +132,7 @@ describe("MCPDiscovery", () => {
   });
 
   it.each([
+    ["ACE Music", "ACE Music by Ace Data Cloud"],
     ["suno", "Suno by Ace Data Cloud"],
     ["seedance", "Seedance by Ace Data Cloud"],
     ["happy horse", "HappyHorse by Ace Data Cloud"],
